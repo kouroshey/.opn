@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "name": "Kourosh Eydivandi",
+  "description": "Front-End developer. Passionate about Blockchain and Web3.0",
+  "sections": [
+    {
+      "title": "About",
+      "type": "text",
+      "content": "Over the past few years, I’ve contributed to large-scale web platforms for major government organizations and an international decentralized exchange. My work often involves building mobile-first, offline-capable apps that serve tens of thousands of users, with a focus on usability, performance, and clean architecture."
+    },
+    {
+      "title": "Experience",
+      "type": "list",
+      "items": [
+        {
+          "title": "Freelance",
+          "description": "Web Developer",
+          "date": "Jan 2024–Present"
+        },
+        {
+          "title": "Appic DAO",
+          "description": "Front-End Web Developer",
+          "url": "https://appicdao.com",
+          "date": "Dec 2024–Present"
+        },
+        {
+          "title": "Khateroshan",
+          "description": "Front-End Web Developer",
+          "date": "Nov 2024–May 2025"
+        }
+      ]
+    },
+    {
+      "title": "Socials",
+      "type": "links",
+      "links": [
+        {
+          "title": "Linkedin",
+          "url": "www.linkedin.com/in/kouroshey"
+        },
+        {
+          "title": "GitHub",
+          "url": "https://github.com/kouroshey"
+        },
+        {
+          "title": "Telegram",
+          "url": "https://t.me/kouroshey"
+        }
+      ]
+    }
+  ],
+  "style": {
+    "font": "serif",
+    "theme": "dark"
+  }
+}
