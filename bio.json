@@ -1,56 +1,119 @@
 {
   "version": 1,
   "name": "Kourosh Eydivandi",
-  "description": "Front-End developer. Passionate about Blockchain and Web3.0",
+  "description": "Frontend / Fullstack Developer | React, Next.js, Web3",
   "sections": [
     {
       "title": "About",
       "type": "text",
-      "content": "Over the past few years, I’ve contributed to large-scale web platforms for major government organizations and an international decentralized exchange. My work often involves building mobile-first, offline-capable apps that serve tens of thousands of users, with a focus on usability, performance, and clean architecture."
+      "content": "Frontend / Fullstack Developer with 3+ years of experience building scalable, production-grade web applications. Self-taught with a strong real-world, project-based background. Specialized in React and Next.js with a focus on performance, clean architecture, and high-quality UI. Experienced in remote collaboration, system-level thinking, and delivering real-world solutions for startups, government platforms, and decentralized exchanges."
+    },
+    {
+      "title": "Skills",
+      "type": "list",
+      "items": [
+        { "title": "Frontend", "description": "React, Next.js, Angular, Svelte, TypeScript, JavaScript" },
+        { "title": "State & Data", "description": "React Query, Redux Toolkit, RTK Query, Zustand" },
+        { "title": "Styling & UI", "description": "TailwindCSS, Bootstrap, shadcn/ui" },
+        { "title": "Forms & Validation", "description": "React Hook Form, Zod, Yup" },
+        { "title": "Backend & Web3", "description": "Node.js, Express.js, Rust, Solidity" },
+        { "title": "Other", "description": "GraphQL, PWA, TWA, Jest, RTL, Git, GitHub, GitLab" }
+      ]
     },
     {
       "title": "Experience",
       "type": "list",
       "items": [
         {
-          "title": "Freelance",
-          "description": "Web Developer",
-          "date": "Jan 2024–Present"
+          "title": "Swappic",
+          "description": "Frontend Developer — Global Decentralized Exchange",
+          "date": "Oct 2024 – Nov 2025",
+          "details": "Built a production-grade DEX dashboard using Next.js App Router. Developed Swap, Bridge, Advanced Trade, and Auto-Invest modules. Implemented multi-chain wallet connections with Wagmi and improved data loading performance by ~30% using smart caching."
         },
         {
-          "title": "Appic DAO",
-          "description": "Front-End Web Developer",
-          "url": "https://appicdao.com",
-          "date": "Dec 2024–Present"
+          "title": "Swappic",
+          "description": "Fullstack Developer — Project-Based",
+          "date": "Nov 2025 – Jan 2026",
+          "details": "Worked across backend and Web3 layers. Designed a smart routing (quoter) system integrating Uniswap v2/v3/v4, SushiSwap, and PancakeSwap. Aggregated liquidity across multiple DEXs and connected backend services to the frontend."
         },
         {
-          "title": "Khateroshan",
-          "description": "Front-End Web Developer",
-          "date": "Nov 2024–May 2025"
+          "title": "Toseegaran Mobtaker",
+          "description": "Frontend Developer — Project-Based",
+          "date": "Jan 2024 – Jan 2026",
+          "details": "Developed scalable admin dashboards and social platforms. Managed 350+ API endpoints and 160+ routes. Built multilingual platforms using i18n and next-intl and implemented Telegram mini-apps and subscription systems."
         },
         {
-          "title": "Tose'e Dahandegan-e Mobtaker",
-          "description": "Front-End Web Developer",
-          "date": "May 2024–Jun 2025"
+          "title": "Rabits Team",
+          "description": "Team Lead & Frontend Developer (Freelance)",
+          "date": "May 2024 – Present",
+          "details": "Led a freelance development team, handled client interviews and pricing, translated business requirements into technical plans, and initiated Pabezan — a fitness platform connecting bodybuilders with coaches."
+        },
+        {
+          "title": "Dade Gostare Khateroshan",
+          "description": "Frontend Developer — Government Service Apps",
+          "date": "Aug 2024 – Apr 2025",
+          "details": "Worked on large-scale public service applications. Built complex multi-step forms with Zod validation, converted platforms into PWAs, and developed Android TWA apps with push notifications."
+        },
+        {
+          "title": "Houshyar24",
+          "description": "Frontend Developer — AI Agent Platform",
+          "date": "May 2025 – Jul 2025",
+          "details": "Developed a bilingual, animation-heavy landing page using Next.js 15, GSAP, and TailwindCSS. Solved complex media rendering and layout challenges."
         }
+      ]
+    },
+    {
+      "title": "Projects",
+      "type": "list",
+      "items": [
+        {
+          "title": "Swappic DEX Platform",
+          "description": "Production decentralized exchange dashboard and trading platform",
+          "url": "https://test.appicdao.com/"
+        },
+        {
+          "title": "Houshyar24",
+          "description": "AI agent service platform with bilingual support",
+          "url": "https://houshyar24.ir/"
+        },
+        {
+          "title": "Rabits Team",
+          "description": "Freelance team portfolio and client projects",
+          "url": "https://rabits.dev"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "type": "list",
+      "items": [
+        {
+          "title": "Payame Noor University, Tehran South",
+          "description": "B.Sc. in Computer Engineering — Software (In Progress)",
+          "date": "Sep 2025 – Present"
+        },
+        {
+          "title": "Hadafe Bartar High School",
+          "description": "Diploma in Mathematics & Physics",
+          "date": ""
+        }
+      ]
+    },
+    {
+      "title": "Languages",
+      "type": "list",
+      "items": [
+        { "title": "Farsi", "description": "Native" },
+        { "title": "English", "description": "Upper-Intermediate (B2)" }
       ]
     },
     {
       "title": "Socials",
       "type": "links",
       "links": [
-        {
-          "title": "Linkedin",
-          "url": "https://linkedin.com/in/kouroshey"
-        },
-        {
-          "title": "GitHub",
-          "url": "https://github.com/kouroshey"
-        },
-        {
-          "title": "Telegram",
-          "url": "https://t.me/kouroshey"
-        }
+        { "title": "GitHub", "url": "https://github.com/kouroshey" },
+        { "title": "LinkedIn", "url": "https://linkedin.com/in/kouroshey" },
+        { "title": "Email", "url": "mailto:kouroshey@gmail.com" }
       ]
     }
   ],
