@@ -33,15 +33,15 @@
         },
         {
           "title": "Swappic",
-          "description": "Frontend Developer — Global Decentralized Exchange",
-          "date": "Oct 2024 – Nov 2025",
-          "details": "Built a production-grade DEX dashboard using Next.js App Router. Developed Swap, Bridge, Advanced Trade, and Auto-Invest modules. Implemented multi-chain wallet connections with Wagmi and improved data loading performance by ~30% using smart caching."
-        },
-        {
-          "title": "Swappic",
           "description": "Fullstack Developer — Project-Based",
           "date": "Nov 2025 – Jan 2026",
           "details": "Worked across backend and Web3 layers. Designed a smart routing (quoter) system integrating Uniswap v2/v3/v4, SushiSwap, and PancakeSwap. Aggregated liquidity across multiple DEXs and connected backend services to the frontend."
+        },
+        {
+          "title": "Swappic",
+          "description": "Frontend Developer — Global Decentralized Exchange",
+          "date": "Oct 2024 – Nov 2025",
+          "details": "Built a production-grade DEX dashboard using Next.js App Router. Developed Swap, Bridge, Advanced Trade, and Auto-Invest modules. Implemented multi-chain wallet connections with Wagmi and improved data loading performance by ~30% using smart caching."
         },
         {
           "title": "Toseegaran Mobtaker",
