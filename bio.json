@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "Kourosh Eydivandi",
-  "description": "Frontend / Fullstack Developer | React, Next.js, Web3",
+  "description": "Frontend / Backend Developer | React, Next.js, NodeJS, Web3",
   "sections": [
     {
       "title": "About",
@@ -12,12 +12,13 @@
       "title": "Skills",
       "type": "list",
       "items": [
-        { "title": "Frontend", "description": "React, Next.js, Angular, Svelte, TypeScript, JavaScript" },
-        { "title": "State & Data", "description": "React Query, Redux Toolkit, RTK Query, Zustand" },
-        { "title": "Styling & UI", "description": "TailwindCSS, Bootstrap, shadcn/ui" },
+        { "title": "Frontend", "description": "React, Next.js, Angular, TypeScript, JavaScript" },
+        { "title": "Mobile & Android", "description": "React Native, Expo, Kotlin" },
+        { "title": "State & Data", "description": "TanStack Query, Redux Toolkit, RTK Query, Zustand, Jotai, Axios" },
+        { "title": "Styling & UI", "description": "TailwindCSS, Nativewind, Bootstrap, shadcn/ui, reactnativereusables" },
         { "title": "Forms & Validation", "description": "React Hook Form, Zod, Yup" },
-        { "title": "Backend & Web3", "description": "Node.js, Express.js, Rust, Solidity" },
-        { "title": "Other", "description": "GraphQL, PWA, TWA, Jest, RTL, Git, GitHub, GitLab" }
+        { "title": "Backend & Web3", "description": "Node.js, Express.js, Hono, Drizzle, Postgresql, Rust, Solidity" },
+        { "title": "Other", "description": "GraphQL, PWA, TWA, Jest, Git, GitHub, GitLab" }
       ]
     },
     {
