@@ -26,6 +26,12 @@
       "type": "list",
       "items": [
         {
+          "title": "StartDone",
+          "description": "Frontend / Mobile Developer - Full-Time",
+          "date": "Feb 2026 – Present",
+          "details": "Working on Large scale web applications, Mobile specific applications, native modules and hardware integrated apis"
+        },
+        {
           "title": "Swappic",
           "description": "Frontend Developer — Global Decentralized Exchange",
           "date": "Oct 2024 – Nov 2025",
